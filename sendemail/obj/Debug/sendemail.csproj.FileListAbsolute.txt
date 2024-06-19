@@ -1,0 +1,2 @@
+C:\Users\faculty\source\repos\sendemail\sendemail\obj\Debug\sendemail.csproj.AssemblyReference.cache
+C:\Users\faculty\source\repos\sendemail\sendemail\obj\Debug\sendemail.csproj.CoreCompileInputs.cache
